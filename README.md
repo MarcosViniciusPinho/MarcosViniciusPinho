@@ -13,3 +13,30 @@
 </div>
   
   ![Snake animation](https://github.com/MarcosViniciusPinho/MarcosViniciusPinho/blob/output/github-contribution-grid-snake.svg)
+  
+  ##
+  
+<a href="https://github.com/MarcosViniciusPinho/money">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcosViniciusPinho&repo=money&theme=vue-dark&border_radius=20" />
+</a>
+<a href="https://github.com/MarcosViniciusPinho/currency-converter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcosViniciusPinho&repo=currency-converter&theme=vue-dark&border_radius=20" />
+</a>
+  
+  ##
+  
+<a href="https://github.com/MarcosViniciusPinho/desafio_b2w">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcosViniciusPinho&repo=desafio_b2w&theme=vue-dark&border_radius=20" />
+</a>
+<a href="https://github.com/MarcosViniciusPinho/carrinhoAPI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcosViniciusPinho&repo=carrinhoAPI&theme=vue-dark&border_radius=20" />
+</a>
+  
+  ##
+  
+<a href="https://github.com/MarcosViniciusPinho/scheduleBitCoin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcosViniciusPinho&repo=scheduleBitCoin&theme=vue-dark&border_radius=20" />
+</a>
+<a href="https://github.com/MarcosViniciusPinho/DemoApi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcosViniciusPinho&repo=DemoApi&theme=vue-dark&border_radius=20" />
+</a>  
