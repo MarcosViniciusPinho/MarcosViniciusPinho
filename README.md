@@ -1,4 +1,4 @@
-## Fala galera, me chamo Marcos
+## Profissional com mais de dez anos de experiência na área de desenvolvimento de software, onde já trabalhou com N linguagens, assim como N paradigmas.<br /> Já trabahou como FullStack bem no inicio de carreira e hoje esta de forma full no backend atuando fortemente em microserviços.
 <div>
   <a href="https://github.com/MarcosViniciusPinho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosViniciusPinho&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
@@ -16,27 +16,6 @@
   
   ##
   
-<a href="https://github.com/MarcosViniciusPinho/money">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcosViniciusPinho&repo=money&theme=vue-dark&border_radius=20" />
+<a href="https://github.com/MarcosViniciusPinho/demo-microservices-with-log-aggregation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcosViniciusPinho&repo=demo-microservices-with-log-aggregation&theme=vue-dark&border_radius=20" />
 </a>
-<a href="https://github.com/MarcosViniciusPinho/currency-converter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcosViniciusPinho&repo=currency-converter&theme=vue-dark&border_radius=20" />
-</a>
-  
-  ##
-  
-<a href="https://github.com/MarcosViniciusPinho/desafio_b2w">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcosViniciusPinho&repo=desafio_b2w&theme=vue-dark&border_radius=20" />
-</a>
-<a href="https://github.com/MarcosViniciusPinho/carrinhoAPI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcosViniciusPinho&repo=carrinhoAPI&theme=vue-dark&border_radius=20" />
-</a>
-  
-  ##
-  
-<a href="https://github.com/MarcosViniciusPinho/scheduleBitCoin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcosViniciusPinho&repo=scheduleBitCoin&theme=vue-dark&border_radius=20" />
-</a>
-<a href="https://github.com/MarcosViniciusPinho/DemoApi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcosViniciusPinho&repo=DemoApi&theme=vue-dark&border_radius=20" />
-</a>  
