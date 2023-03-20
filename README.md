@@ -1,4 +1,4 @@
-## Profissional com mais de dez anos de experiência na área de desenvolvimento de software, onde já trabalhou com N linguagens, assim como N paradigmas.<br /> Já trabahou como FullStack bem no inicio de carreira e hoje esta de forma full no backend atuando fortemente em microserviços.
+## As a seasoned software development professional with over a decade of experience, I have worked with multiple languages and paradigms. <br />Beginning my career as a FullStack developer, I have since focused on backend development, with a particular emphasis on microservices.
 <div>
   <a href="https://github.com/MarcosViniciusPinho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosViniciusPinho&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
