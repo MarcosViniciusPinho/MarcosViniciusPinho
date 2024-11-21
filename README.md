@@ -21,5 +21,5 @@
 </a>
 
 <a href="https://github.com/MarcosViniciusPinho/demo-tracing">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcosViniciusPinho&repo=demo-tracing&theme=vue-dark&border_radius=40" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcosViniciusPinho&repo=demo-tracing&theme=vue-dark&border_radius=20" />
 </a>
